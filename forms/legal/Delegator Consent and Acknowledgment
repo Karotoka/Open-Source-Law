@@ -1,0 +1,17 @@
+//for a potential delegator of DAO governance token voting power; inspired by [Erich Dylus](https://github.com/ErichDylus)' delegate disclosure
+
+**Consent & Acknowledgement of Delegate Dislosure**
+
+***Last updated: [DATE]***
+
+Please be advised:
+
+I control the private key for the externally owned account[s]:
+
+[PUBLIC KEY ADDRESS[ES]] ([collectively,] the “Delegator Address[es]”),
+
+By signing transaction [delegation tx hash] it is my intention to delegate the proposing, voting, abstaining, or other related rights associated with the [DAO GOV TOKEN] token, in their entirety, until I revoke such this delegation through the execution of a validated transaction on the [denote network (e.g. ETH)] (the "Revocation"). 
+
+I acknowledge that until the Revocation, the [Delegatee Address[es]] shall be able to fully exercise all proposing, voting, abstaining, or other related rights associated with the [DAO GOV TOKEN] token, on my behalf and consent to this assignment.
+
+Further, I have reviewed the Vote Delgate Disclosure information provided by [Delegatee Address[es]] and have considered that information in signing transaction [delegation tx hash]. I acknowledge that it is solely my responsibility to appraise myself of any updated disclosures provided by the [Delegatee Address[es]].
